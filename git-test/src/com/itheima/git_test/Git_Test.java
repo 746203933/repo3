@@ -12,6 +12,7 @@ public class Git_Test {
         System.out.println("hello git project");
         System.out.println("hello git project1");
         System.out.println("hello git project2");
+        System.out.println("hello git project4");
 
     }
 
@@ -19,5 +20,6 @@ public class Git_Test {
             int i=0;
             i+=10;
             i-=2;
+        System.out.println(i);
     }
 }
